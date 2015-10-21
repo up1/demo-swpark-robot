@@ -1,0 +1,12 @@
+http://jackmsw.blogspot.com/2014/05/robot-framework-autoitlibrary-automated.html
+https://www.facebook.com/prayoch.rujira
+
+http://robotframework.org/
+http://robotframework.org/robotframework/#standard-libraries
+http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html
+
+http://robotframework.org/Selenium2Library/doc/Selenium2Library.html
+
+https://jenkins-ci.org/
+
+
